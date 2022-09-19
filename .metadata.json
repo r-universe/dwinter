@@ -1,9 +1,5 @@
 [
   {
-    "package": "mmod",
-    "oncran": true
-  },
-  {
     "package": "pafr",
     "oncran": true
   }
