@@ -5,6 +5,3 @@
 [submodule "mmod"]
 	path = mmod
 	url = https://github.com/dwinter/mmod
-[submodule "pafr"]
-	path = pafr
-	url = https://github.com/dwinter/pafr
